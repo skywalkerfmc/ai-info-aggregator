@@ -6149,6 +6149,132 @@
       "pushed_at": "2026-05-23",
       "title": "Codex 这波大更新后，Mac 的含金量再次提升",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlncun/id_rather_lose_users_than_guilt_them_into_staying/",
+      "pushed_at": "2026-05-23",
+      "title": "i'd rather lose users than guilt them into staying. some thoughts after 4 months building a quit-app.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlf3bq/i_built_an_app_because_i_kept_forgetting/",
+      "pushed_at": "2026-05-23",
+      "title": "I built an app because I kept forgetting birthdays. 2,000+ people downloaded it in the first month.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tlnxda/indie_project_feedback_needed_receipt_scanner/",
+      "pushed_at": "2026-05-23",
+      "title": "Indie Project Feedback Needed Receipt Scanner + Warranty Vault App (using AI for scaning the receipt)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tl84ci/i_built_an_ai_audio_guide_that_tells_you_stories/",
+      "pushed_at": "2026-05-23",
+      "title": "I built an AI audio guide that tells you stories about places as you drive past them — no buttons, just listen",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48250231",
+      "pushed_at": "2026-05-23",
+      "title": "Show HN: Running BitNet b1.58 inside DRAM by breaking DDR4 timing rules",
+      "score": 5
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48248801",
+      "pushed_at": "2026-05-23",
+      "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/",
+      "pushed_at": "2026-05-23",
+      "title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlqxeh/command_a_218b_moe_running_on_apple_silicon_mlx/",
+      "pushed_at": "2026-05-23",
+      "title": "Command A+ (218B MoE) running on Apple Silicon — MLX port, PR open",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlqcbi/embeddings_for_nvidias_nemotron_personas/",
+      "pushed_at": "2026-05-23",
+      "title": "Embeddings for NVIDIA's Nemotron Personas",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlnqzj/run_chromes_tiny_gemma4_aka_gemini_nano_directly/",
+      "pushed_at": "2026-05-23",
+      "title": "Run Chrome’s tiny Gemma4 (aka Gemini Nano) directly on PC without GPU",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tluvwg/local_model_doing_accounting_tasks/",
+      "pushed_at": "2026-05-23",
+      "title": "Local model doing accounting tasks",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlliw4/did_a_30_runs_of_llamabench_to_find_optimal/",
+      "pushed_at": "2026-05-23",
+      "title": "Did a 30 runs of llama-bench to find optimal settings for my use case (Frigate and HomeAssistant) on my MI60 32gb VRAM GPU - two models tested Gemma4 and Qwen3.6 - Figured I'd share in case it helps anyone else",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlgxms/llamacpp_vs_litert_on_a_custom_xiaomi_12_pro_247/",
+      "pushed_at": "2026-05-23",
+      "title": "Llama.cpp VS LiteRT on a custom Xiaomi 12 Pro 24/7 Server (V2 Redesign)",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlkgq6/any_reason_to_run_dense_over_moe_for_rags/",
+      "pushed_at": "2026-05-23",
+      "title": "Any reason to run dense over MOE for RAGs?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl9woz/gemma4_26b_a4b_apex_quant_is_quite_good/",
+      "pushed_at": "2026-05-23",
+      "title": "Gemma4 26b a4b Apex quant is quite good",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl4wpi/meituanlongcatlongcatvideoavatar15_hugging_face/",
+      "pushed_at": "2026-05-23",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/",
+      "pushed_at": "2026-05-23",
+      "title": "Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tle4ut/optimizing_speed_quality_on_qwen36_27b/",
+      "pushed_at": "2026-05-23",
+      "title": "Optimizing speed & quality on Qwen3.6 27b",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "pushed_at": "2026-05-23",
+      "title": "karpathy/nn-zero-to-hero",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3821533415985283?f=rss",
+      "pushed_at": "2026-05-23",
+      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3821521291038856?f=rss",
+      "pushed_at": "2026-05-23",
+      "title": "对话王小川：离开通用人工智能的主干道之后",
+      "score": 7
     }
   ]
 }
