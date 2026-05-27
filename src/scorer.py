@@ -80,8 +80,8 @@ SUMMARY_PROMPT = """请为以下文章生成一段中文摘要，2-3 句话。
 只输出摘要文本，不要其他内容。"""
 
 
-SCORING_MODEL = "deepseek-v4-flash"
-SUMMARY_MODEL = "deepseek-v4-flash"
+SCORING_MODEL = "mimo-v2.5"
+SUMMARY_MODEL = "mimo-v2.5"
 
 # DeepSeek official pricing for V4-Flash ($/M tokens), cache-miss list price.
 # Actual cost may be lower: cache hits 1/10 input, night discount (UTC 16:30-00:30) -50%.
